@@ -1,4 +1,4 @@
-title = "My New Hugo Site"
+title = "Elicema.com – Profecional en neurodesarrollo"
 baseurl = "https://elicema.github.io/"
 languageCode = "en-us"
 
@@ -105,7 +105,7 @@ paginate = 10
     link_text = "Abrir youtube"
 
 [params.clients]
-    enable = true
+    enable = false
     # All clients are defined in their own files. You can find example items
     # at 'exampleSite/data/clients'.
     # For more informtion take a look at the README.
