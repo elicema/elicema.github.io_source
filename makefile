@@ -1,5 +1,5 @@
 all:
 	hugo
 	make -f public/makefile
-serve:
+run:
 	hugo server
