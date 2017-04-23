@@ -10,7 +10,7 @@ paginate = 10
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
+    author = "OnlyAngel"
 
     # Style options: default (light-blue), blue, green, marsala, pink, red, turquoise, violet
     style = "default"
@@ -30,17 +30,15 @@ paginate = 10
     # Enable the contact form by entering your Formspree.io email
     email = "nora@elicema.com"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
+    about_us = "<p>Elicema surge de la necesidad de proporcionar un espacio en donde niños, adolescentes y adultos puedan tener acceso a un servicio psicológico integral, de alta especialidad, en donde se les brinde atención a sus necesidades de salud mental, emocional,  aprendizaje  y neurodesarrollo.</p>"
     copyright = "Copyright (c) 2015 - 2017, Elicema.com; all rights reserved."
     date_format = "2006-01-02"
     logo = "img/noralogo.jpg"
-    address = """<p><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
+    address = """<p>
+        <br>Tiburcio Sanchez de la Barquera 108
+        <br>Merced Gomez, Benito Juarez, CDMX
+        <br>C.P. 03930
+
       </p>
       """
     latitude = "19.3640415"
@@ -116,5 +114,3 @@ paginate = 10
     enable = true
     title = "De nuestro blog"
     subtitle = "Nos preocupamos por el buen desarrollo de todo el publico en general por eso les escribimos estos comentarios."
-
-
