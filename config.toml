@@ -92,7 +92,7 @@ paginate = 10
     # at 'exampleSite/data/testimonials'.
     # For more informtion take a look at the README.
     title = "Testimonios"
-    subtitle = "Hemos trabajado con una gran cantidad de pasientes y nos encanta escuchar lo felices y satisfechos que quedan de sus tratamientos, mira lo que algunos clientes dicen de nosotros."
+    subtitle = "Hemos trabajado con una gran cantidad de clientes y nos encanta escuchar lo felices y satisfechos que quedan con nuestros servicios, mira lo que algunos de ellos dicen de nosotros."
 
 [params.see_more]
     enable = true
