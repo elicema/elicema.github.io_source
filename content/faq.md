@@ -1,5 +1,5 @@
 +++
-title = "FAQ"
+title = "Preguntas Frecuentes"
 +++
 
 ## ¿Qué es la psicoterapia?
