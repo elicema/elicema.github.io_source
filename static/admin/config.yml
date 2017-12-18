@@ -18,3 +18,11 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: "categories", widget:"list", default: [""]}
       - {label: "Tags", name: "tags", widget:"list", default: ["blog"]}
+  - name: "pages"
+    label: "Pages"
+    folder: "content/pages"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - {label: "Title", name: "tile", widget: "string"}
+      - {label: "ID", name: "id", widget: "string"}

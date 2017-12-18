@@ -1,4 +1,4 @@
 +++
-tags = []
-categories = []
+title = "Resiliencia"
+id = "resiliencia"
 +++
