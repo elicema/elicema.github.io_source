@@ -23,13 +23,14 @@ El trabajo es acompañado por asesoría a los padres sobre disciplina, hábitos 
 Programa intensivo de verano
 
 **¿Qué beneficios obtendrá el niño y la familia?**
--Control de la impulsividad
--Mejora la autoestima y la motivación hacia el estudio
--Mayor rendimiento académico
--Mejor comportamiento e interacción social
--Hábitos de estudio
--Asertividad al expresarse
--Liderazgo positivo en los niños
+
+* Control de la impulsividad
+* Mejora la autoestima y la motivación hacia el estudio
+* Mayor rendimiento académico
+* Mejor comportamiento e interacción social
+* Hábitos de estudio
+* Asertividad al expresarse
+* Liderazgo positivo en los niños
 
 **Responsable del programa**
 Nora Elicema Velázquez Félix
