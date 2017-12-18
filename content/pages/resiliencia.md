@@ -2,6 +2,7 @@
 tile: Resiliencia y manejo de emociones para niños.
 id: resiliencia
 ---
+*Resiliencia y manejo de emociones para niños.*
 Educar las emociones es educar para la vida. 
 
 
