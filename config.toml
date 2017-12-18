@@ -1,6 +1,6 @@
 title = "Elicema.com – Profesional en neurodesarrollo"
 #baseurl = "https://priceless-elion-5ad759.netlify.com/"
-baseurl = "https://elicema.github.io/"
+baseurl = "https://www.elicema.com/"
 languageCode = "en-us"
 
 theme = "hugo-universal-theme"
