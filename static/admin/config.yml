@@ -15,9 +15,9 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Banner", name: "banner", widget: "image"}
-      - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Categories", name: "categories", widget:"list", default: [""]}
       - {label: "Tags", name: "tags", widget:"list", default: ["blog"]}
+      - {label: "Body", name: "body", widget: "markdown"}
   - name: "pages"
     label: "Pages"
     folder: "content/pages"
@@ -26,3 +26,4 @@ collections:
     fields:
       - {label: "Title", name: "tile", widget: "string"}
       - {label: "ID", name: "id", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
