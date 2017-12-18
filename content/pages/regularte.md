@@ -15,7 +15,10 @@ Programa dirigido a niños de 5 a 15 años con dificultades para el control de i
 3. Trabajo interdisciplinario con la escuela. Recomendaciones a profesores.
 
 **¿Cuánto dura el programa?**
+
 Varía dependiendo de las necesidades de tu hijo y respuesta al tratamiento.
+
+
 Programa regular
 Trabajamos intensamente durante 10 semanas. 2 sesiones de 1½ horas por semana con retroalimentación sobre avances y como favorecer los logros en casa.
 El trabajo es acompañado por asesoría a los padres sobre disciplina, hábitos y estilo de crianza.
@@ -23,15 +26,18 @@ El trabajo es acompañado por asesoría a los padres sobre disciplina, hábitos 
 Programa intensivo de verano
 
 **¿Qué beneficios obtendrá el niño y la familia?**
--Control de la impulsividad
--Mejora la autoestima y la motivación hacia el estudio
--Mayor rendimiento académico
--Mejor comportamiento e interacción social
--Hábitos de estudio
--Asertividad al expresarse
--Liderazgo positivo en los niños
+
+* Control de la impulsividad
+* Mejora la autoestima y la motivación hacia el estudio
+* Mayor rendimiento académico
+* Mejor comportamiento e interacción social
+* Hábitos de estudio
+* Asertividad al expresarse
+* Liderazgo positivo en los niños
 
 **Responsable del programa**
+
 Nora Elicema Velázquez Félix
 Lic. En Psicología con Maestría en Rehabilitación Neurológica Infantil
+
 Con formación en el tratamiento de trastornos de aprendizaje, déficit de atención, neurodesarrollo y en psicoterapia infantil y juvenil.
