@@ -1,5 +1,5 @@
-+++
-title = "Resiliencia"
-id = "resiliencia"
-+++
-hola mundo 
+---
+tile: 'Resiliensia '
+id: resiliencia
+---
+
