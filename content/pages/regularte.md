@@ -1,6 +1,5 @@
 +++
 title = "Regularte"
 id = "regularte"
-tags = []
-categories = []
 +++
+hola mundo
