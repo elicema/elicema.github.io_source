@@ -2,6 +2,7 @@
 tile: Resiliencia y manejo de emociones para niños.
 id: resiliencia
 ---
+# Resiliencia y manejo de emociones para niños.
 Educar las emociones es educar para la vida. 
 
 
@@ -52,7 +53,7 @@ El taller incluye un manual para el niño a través del cual se fortalecerán en
 
 Taller fundamentado con los principios de los programas de Resiliencia del Pathways Health and Research Centre, el cual es recomendado por la Organización Mundial de la Salud y que actualmente se aplica en 22 países alrededor del mundo.
 
-**¿Cuánto dura el programa?**
+** ¿Cuánto dura el programa? **
 
 12 sesiones grupales (cupo limitado).
 
