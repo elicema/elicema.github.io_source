@@ -1,6 +1,6 @@
 ---
 title: ¿POR QUÉ ES TAN DIFÍCIL ACEPTAR MI CUERPO AHORA QUE SOY MAMÁ?
-date: 2018-01-24T04:04:30.227Z
+date: 2018-01-22T22:04:30-06:00
 banner: /images/uploads/t.png
 categories: 'List [ "Love your self" ] [ "Mamá saludable" ]'
 tags: 'List [ "blog" ]'
