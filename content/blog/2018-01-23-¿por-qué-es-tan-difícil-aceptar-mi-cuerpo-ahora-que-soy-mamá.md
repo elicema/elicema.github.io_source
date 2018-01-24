@@ -1,8 +1,8 @@
 ---
 title: ¿POR QUÉ ES TAN DIFÍCIL ACEPTAR MI CUERPO AHORA QUE SOY MAMÁ?
-date: 2018-01-22T22:04:30-06:00
+date: 2018-01-23T04:04:30.000Z
 banner: /images/uploads/t.png
-categories: 'List [ "Love your self" ] [ "Mamá saludable" ]'
+categories: 'List [ "Love your self", "Mamá saludable" ]'
 tags: 'List [ "blog" ]'
 ---
 Siempre he tenido la convicción de que ser mamá es de las mejores cosas de la vida, los hijos nos llevan más allá de nuestros límites y a cada instante nos prueban, pero a su vez dan una satisfacción y comprensión de la vida que son indescriptibles. 
