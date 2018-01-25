@@ -3,8 +3,8 @@ title: VIERNES INCREÍBLE
 date: 2018-01-25T04:01:37.655Z
 banner: /images/uploads/our teamneeds an eic (1).png
 categories: >-
-  List [ "Resiliencia" ] [ "Expresión emocional" ] [ "Emprendimiento" ] [
-  "Innovación" ] 
+  List [ "Resiliencia", "Expresión emocional" ,"Emprendimiento" , "Innovación"
+  ] 
 tags:
   - blog
 ---
