@@ -60,12 +60,11 @@ Es optativo acudir a sesiones sueltas o a las 10 sesiones en el año.
 Cada sesión se trabajara una temática diferente.
 
 **
-Dirigido a niños de 4-10 años
-**
+Dirigido a niños de 4-10 años**
 
-**Responsables del programa**
 
-- - -
+
+**Responsables del programa:**
 
 * **Nora Elicema Velázquez Félix**
 
