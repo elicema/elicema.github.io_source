@@ -8,8 +8,7 @@ categories: >-
 tags:
   - blog
 ---
-**Un niño resiliente, creativo, con un pensamiento innovador, podrá convertir la adversidad en oportunidades. 
-**
+**Un niño resiliente, creativo, con un pensamiento innovador, podrá convertir la adversidad en oportunidades.**
 
 El viernes de consejo técnico, es una excelente oportunidad para fomentar en tu hijo el bienestar emocional y social, **a través del juego y dinámicas divertidas le enseñamos habilidades para afrontar y resolver problemas que pueden aplicar en su vida diaria**.  En conjunto, estas habilidades pueden fomentar en ellos resiliencia, autoestima y expresión emocional lo que los protege contra el estrés y les permite confrontar situaciones desafiantes o difíciles.
 
