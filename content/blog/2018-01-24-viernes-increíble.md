@@ -63,14 +63,11 @@ Cada sesión se trabajara una temática diferente.
 Dirigido a niños de 4-10 años
 **
 
-
-
 **Responsables del programa**
 
 - - -
 
-**Nora Elicema Velázquez Félix**
-\*\*
+* **Nora Elicema Velázquez Félix**
 
 Lic. En Psicología con Maestría en Rehabilitación Neurológica Infantil
 
