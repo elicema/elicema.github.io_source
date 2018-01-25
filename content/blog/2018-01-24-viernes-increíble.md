@@ -86,3 +86,4 @@ Ha sido** invitada dos años seguidos al Women Techmakers de Google**, evento di
 **Co-fundadora de GDG Zapopan**, que se dedica a hacer crecer la comunidad de desarrolladores con herramientas de Google.
 
 **Directora del programa Techmagine en Elicema**, en donde dirige clases de programación y emprendimiento para niños.
+
