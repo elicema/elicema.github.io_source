@@ -22,7 +22,7 @@ Te comparto algunas estrategias para cambiar estas conductas en ti y en tu hijo:
 
 **1.	Date cuenta ¿porque lo haces?**, si es por culpa, miedo, apariencia, etc. No será fácil, porque es difícil vernos y aceptar aquello que tanto nos duele, pero si encuentras la razón de la sobreprotección hacia tu hijo será más fácil resolverlo.
 
-**2.	Los padres perfectos no existen. **Al igual que tu hijo tú estás aprendiendo, por eso te invito a reconocer que hasta ahora has hecho lo que has creído mejor, pero que es momento de cambiar para ser una familia más independiente y segura. Es desgastante tratar de satisfacer todas sus necesidades.
+**2.	Los padres perfectos no existen.** Al igual que tu hijo tú estás aprendiendo, por eso te invito a reconocer que hasta ahora has hecho lo que has creído mejor, pero que es momento de cambiar para ser una familia más independiente y segura. Es desgastante tratar de satisfacer todas sus necesidades.
 
 **3.	Delega responsabilidades.** Deja que tu hijo haga cosas acordes a su edad, como preparar sus cosas para ir a la escuela o hacer actividades para ayudar en casa.
 
