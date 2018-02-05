@@ -6,11 +6,11 @@ categories: 'List [ "Sobreprotección, padres helicóptero, dependencia emociona
 tags:
   - blog
 ---
-Cuando los padres se centran en evitar que sus hijos sufran, tengan dificultades o que simplemente no hagan cosas cotidianas como limpiar su cuarto o recoger sus juguetes, lejos de demostrarle amor, le envían el mensaje fuerte y claro ¡**Hijo tú no puedes, por eso lo hago por ti**!
+Cuando los padres se centran en evitar que sus hijos sufran, tengan dificultades o que simplemente no hagan cosas cotidianas como limpiar su cuarto o recoger sus juguetes, lejos de demostrarle amor, le envían el mensaje fuerte y claro ** ¡Hijo tú no puedes, por eso lo hago por ti! **
 
 Entiendo que para muchos padres es su forma de demostrar amor a sus hijos, algunos dicen “No quiero que sufra lo que yo sufrí”, “Si tengo los recursos, porque no hacerlo por él”, “Nunca estamos juntos y cuando lo estamos quiero compensar todo ese tiempo”.
 
-**¿Cuáles son las razones que nos llevan a la sobreprotección? **En este punto seguramente estás pensando “Lo hago porque lo amo”, “Quiero lo mejor para él”. Analicemos un poco **¿Qué es el amor?** _Según Einstein “…El amor es una potencia, porque multiplica lo mejor que tenemos, y permite que la humanidad no se extinga en su ciego egoísmo”._ Tomando esta definición veamos si la sobreprotección es amor y potencializa lo mejor de tu hijo.
+¿**Cuáles son las razones que nos llevan a la sobreprotección**? En este punto seguramente estás pensando “Lo hago porque lo amo”, “Quiero lo mejor para él”. Analicemos un poco ¿**Qué es el amor**? _Según Einstein “…El amor es una potencia, porque multiplica lo mejor que tenemos, y permite que la humanidad no se extinga en su ciego egoísmo”._ Tomando esta definición veamos si la sobreprotección es amor y potencializa lo mejor de tu hijo.
 
 Cuando tú haces todo por tu hijo, el desarrolla sentimientos de inutilidad y dependencia, deja de hacer cosas cotidianas porque sabe que tiene todo resuelto o que alguien lo hará por él, esto hace que pierda su iniciativa, comienza a sentirse inseguro y a sentir que no puede lograr las cosas por sí mismo lo cual puede llevarlo a una depresión severa o problemas de ansiedad, pierde el interés por desarrollar sus talentos y habilidades, comienza a ser indiferente a las actividades, cada vez se siente más insatisfecho y cree que todo se lo merece. 
 
