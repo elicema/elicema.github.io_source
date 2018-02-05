@@ -6,7 +6,7 @@ categories: 'List [ "Sobreprotección, padres helicóptero, dependencia emociona
 tags:
   - blog
 ---
-Cuando los padres se centran en evitar que sus hijos sufran, tengan dificultades o que simplemente no hagan cosas cotidianas como limpiar su cuarto o recoger sus juguetes, lejos de demostrarle amor, le envían el mensaje fuerte y claro ** ¡Hijo tú no puedes, por eso lo hago por ti! **
+Cuando los padres se centran en evitar que sus hijos sufran, tengan dificultades o que simplemente no hagan cosas cotidianas como limpiar su cuarto o recoger sus juguetes, lejos de demostrarle amor, le envían el mensaje fuerte y claro ¡**Hijo tú no puedes, por eso lo hago por ti**!
 
 Entiendo que para muchos padres es su forma de demostrar amor a sus hijos, algunos dicen “No quiero que sufra lo que yo sufrí”, “Si tengo los recursos, porque no hacerlo por él”, “Nunca estamos juntos y cuando lo estamos quiero compensar todo ese tiempo”.
 
