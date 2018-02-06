@@ -8,7 +8,7 @@ id: 'resiliencia, inteligencia emocional, autoestima'
 
 A través de diferentes dinámicas y técnicas divertidas **tu hijo aprenderá a percibir, entender, usar y gestionar adecuadamente sus emociones**, logrando así desarrollar su inteligencia emocional, asertividad, autonomía y empatía. 
 
-Se busca fomentar el bienestar emocional y social en los niños al **enseñarle habilidades para afrontar y resolver problemas que pueden aplicar en su vida diaria**.  En conjunto, estas habilidades pueden fomentar en ellos resiliencia, autoestima y expresión emocional lo que los protege contra el estrés y les permite confrontar situaciones desafiantes o difíciles.
+Se busca fomentar el bienestar emocional y social en los niños al **enseñarles habilidades para afrontar y resolver problemas que pueden aplicar en su vida diaria**.  En conjunto, estas habilidades pueden fomentar en ellos resiliencia, autoestima y expresión emocional lo que los protege contra el estrés y les permite confrontar situaciones desafiantes o difíciles.
 
 **Método preventivo del desarrollo de elementos de ansiedad y depresión**, así como de algunas dificultades emocionales más serias. 
 
