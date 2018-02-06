@@ -1,6 +1,8 @@
 ---
 tile: 'Regula-arte: El arte de mantener la calma… niños felices y exitosos.'
-id: regularte
+id: >-
+  Problemas de aprendizaje, déficit de atención, control de impulsos, éxito
+  escolar
 ---
 # Regula-arte
 
@@ -36,22 +38,22 @@ Nora Elicema Velázquez Félix
 Lic. En Psicología con Maestría en Rehabilitación Neurológica Infantil
 Con formación en el tratamiento de trastornos de aprendizaje, déficit de atención, neurodesarrollo y en psicoterapia infantil y juvenil.
 
-![](/images/uploads/regularte-01.jpg)
+![null](/images/uploads/regularte-01.jpg)
 
-![](/images/uploads/regularte-02.jpg)
+![null](/images/uploads/regularte-02.jpg)
 
-![](/images/uploads/regularte-03.jpg)
+![null](/images/uploads/regularte-03.jpg)
 
-![](/images/uploads/regularte-04.jpg)
+![null](/images/uploads/regularte-04.jpg)
 
-![](/images/uploads/regularte-05.jpg)
+![null](/images/uploads/regularte-05.jpg)
 
-![](/images/uploads/regularte-06.jpg)
+![null](/images/uploads/regularte-06.jpg)
 
-![](/images/uploads/regularte-07.jpg)
+![null](/images/uploads/regularte-07.jpg)
 
-![](/images/uploads/regularte-08.jpg)
+![null](/images/uploads/regularte-08.jpg)
 
-![](/images/uploads/regularte-09.jpg)
+![null](/images/uploads/regularte-09.jpg)
 
-![](/images/uploads/regularte-10.jpg)
+![null](/images/uploads/regularte-10.jpg)
