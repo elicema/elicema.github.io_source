@@ -6,7 +6,7 @@ categories: 'List [ "nutrición, niños, salud, amor, ejercicio, dieta, lunch, s
 tags:
   - blog
 ---
-Hablar de **autoestima** engloba varios aspectos, claramente uno de ellos es **el amor propio**. Así que cabe mencionar un dicho: “**Como nos vemos nosotros, nos verán los demás**”, esto es trascendental para los niños, la pregunta es, **¿Estás enseñándole a tus hijos a tenerse amor propio?**
+Hablar de **autoestima** engloba varios aspectos, claramente uno de ellos es **el amor propio**. Así que cabe mencionar un dicho: “**Como nos vemos nosotros, nos verán los demás**”, esto es trascendental para los niños, la pregunta es, ¿**Estás enseñándole a tus hijos a tenerse amor propio**?
 
 Una de las mil maneras de tener y demostrar ese amor es como** cuidamos de nuestro cuerpo y nuestra salud**. Realmente la manera en que ingerimos nuestros alimentos, dormimos y hacemos ejercicio es de manera totalmente inconsciente, y es por eso que la mayoría del tiempo** estos 3 aspectos están deficientes en nuestras vidas** y si están así entonces, ¿Qué les enseñamos a nuestros niños?
 
@@ -18,17 +18,17 @@ La invitación en este día es a hacernos conscientes de los alimentos que inger
 
 Sigue estos pequeños pasos para que ellos aprendan lo mejor de ti!
 
-1. **Tu hijo aprende de ti, aliméntate bien.**
+1. **Tu hijo aprende de ti, aliméntate bien**.
 
-2.** Hazlo consciente de lo que está ingiriendo.**
+2. **Hazlo consciente de lo que está ingiriendo**.
 
 3. **Modera el consumo de productos comerciales.** Una comida con productos industrializados contiene químicos, la fruta ya no tiene las vitaminas y minerales, contiene conservadores (algunos pueden ser cancerígenos), no tiene fibra y contiene exceso de azúcar.
 
-4. **Dale motivaciones emocionales, no todos los premios son dulces. **Carencia de vitaminas, caries, problemas de sobrepeso o descontrol en los niveles de glucosa en sangre del niño son posibles problemas de premiar siempre con dulces.
+4. **Dale motivaciones emocionales, no todos los premios son dulces**. Carencia de vitaminas, caries, problemas de sobrepeso o descontrol en los niveles de glucosa en sangre del niño son posibles problemas de premiar siempre con dulces.
 
 5. **Hacerles platillos creativos.** Utilizar varios colores y figuras. La esencia está en hacer la comida mas atractiva y presentarla en una forma más motivadora.
 
-6. **Tener comida saludable al alcance y a la vista.**
+6. **Tener comida saludable al alcance y a la vista**.
 
 7. **No satanizar los alimentos**, enseñarles que todo es con moderación.
 
