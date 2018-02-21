@@ -28,14 +28,14 @@ Los planes y programas educativos están incluyendo nuevas formas de evaluación
 
 Algunos niños tienden a hacer las cosas de la manera en los enseñan es la escuela, este método puede llegar a ser ineficaz en su desempeño. Un ejemplo, es cuando un alumno aprende una manera ya establecida de como hacer algo, siendo incapaz de modificarlo con éxito ante la más mínima novedad, esto es muy común en la resolución de problemas matemáticos. Esta falta de flexibilidad a veces se traduce en que podamos  encontrarnos  niños que presenten una baja tolerancia a la frustración presentando quejas y en contra de las correcciones y aclaraciones.
 
-¿Cómo desarrollo este pensamiento en mi hijo desde casa?
+# ¿Cómo desarrollo este pensamiento en mi hijo desde casa?
 
-Primero y muy importante es dejar que el niño se aburra, un niño aburrido empieza a buscar soluciones y se encuentra disponible a la reflexión.
+Primero y muy importante es **dejar que el niño se aburra**, un niño aburrido empieza a buscar soluciones y se encuentra disponible a la reflexión.
 
-Darle un estímulo mental, ponerle un reto y que éste lo inspire a buscar diversas soluciones, enseñándole que un problema puede tener una solución pero que el camino a esa solución puede ser diferente, no enfocarnos en lo que nos han dicho que debe ser.
+Darle un **estímulo mental**, ponerle un reto y que éste lo inspire a buscar diversas soluciones, enseñándole que un problema puede tener una solución pero que el camino a esa solución puede ser diferente.
 
 Pon aprueba tu pensamiento divergente y haz una lista de cosas para las que te serviría usar algo común, en este caso usaremos una SILLA. Se ha visto que una persona con un pensamiento divergente bien desarrollado puede encontrar hasta 200 usos diferentes de cosas convencionales!!
 
 El desarrollo de este pensamiento se ha llevado de la mano con áreas tecnológicas y de innovación, ya que nos enseña a buscar diferentes soluciones en un solo problema y eso causa más tranquilidad en la persona que esta en constante pensamiento y desarrollo.
 
-Es un pequeño ejercicio, un grano de arena que podemos aportarle a nuestros hijos en este gran mundo digital, recuerda que esto ya no es una herramienta para el futuro, es para el presente.
+**Es un pequeño ejercicio, un grano de arena que podemos aportarle a nuestros hijos en este gran mundo digital, recuerda que esto ya no es una herramienta para el futuro, es para el presente.**
